@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "open": "^10.0.3",
+    "redis": "^4.6.13"
+  }
+}
